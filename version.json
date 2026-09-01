@@ -1,16 +1,16 @@
 {
   "produto": "ConferIR",
-  "versao": "1.0.1",
+  "versao": "1.0.2",
   "data": "2026-08-31",
-  "titulo": "ConferIR 1.0.1",
+  "titulo": "ConferIR 1.0.2",
   "descricao": [
-    "Primeira versão com atualização online manual do ConferIR.",
-    "Relatórios HTML e dashboard com filtro por competência.",
-    "Melhorias no eSocial Web.",
-    "Novo sistema de atualização manual pelo usuário."
+    "Ajustes e refinamentos na tela de atualização.",
+    "Correção da consulta do manifesto de atualização.",
+    "Melhorias no sistema de atualização online manual.",
+    "Consolidação das melhorias em relatórios HTML, dashboard e eSocial Web."
   ],
-  "arquivo": "ConferIR_Setup_1.0.1.exe",
-  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v1.0.1/ConferIR_Setup_1.0.1.exe",
-  "sha256": "e1fe458b52e2ecc7ededa95a1f1a072f3e85575b8e2da9c601de4e9342691653",
+  "arquivo": "ConferIR_Setup_1.0.2.exe",
+  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v1.0.2/ConferIR_Setup_1.0.2.exe",
+  "sha256": "cf23f072c6a1a908ec43a651987b381b27ee4971b14bf5d8b6b97bcf7995f5af",
   "obrigatoria": false
 }
