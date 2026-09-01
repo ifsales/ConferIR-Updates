@@ -1,0 +1,13 @@
+﻿{
+    "produto":  "ConferIR",
+    "versao":  "1.0.1",
+    "data":  "2026-08-31",
+    "titulo":  "ConferIR 1.0.1",
+    "descricao":  [
+                      "Melhorias e correÃ§Ãµes do ConferIR."
+                  ],
+    "arquivo":  "Gerar_Instalador_ConferIR_1.0.1.exe",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v1.0.1/Gerar_Instalador_ConferIR_1.0.1.exe",
+    "sha256":  "c6c1a7c80e789717dbfb26d84a6b2f27ec064bbc759055255282f38fdabff1d2",
+    "obrigatoria":  false
+}
