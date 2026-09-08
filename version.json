@@ -1,15 +1,16 @@
 {
   "produto": "ConferIR",
-  "versao": "3.7.5.0",
+  "versao": "3.7.5.1",
   "data": "2026-09-08",
-  "titulo": "ConferIR 3.7.5.0",
+  "titulo": "ConferIR 3.7.5.1",
   "descricao": [
-    "Atualização do ConferIR 3.7.5.0.",
+    "Atualização do ConferIR 3.7.5.1.",
     "Instalador preserva bancos, arquivos INI e licenças existentes.",
-    "Atualizações iniciadas pelo ConferIR são aplicadas silenciosamente e o aplicativo é reaberto ao final."
+    "Atualizações iniciadas pelo ConferIR são aplicadas silenciosamente e o aplicativo é reaberto ao final.",
+    "Correção do instalador para leitura persistente do payload e substituição atômica com retry."
   ],
-  "arquivo": "ConferIR_Setup_3.7.5.0.exe",
-  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.7.5.0/ConferIR_Setup_3.7.5.0.exe",
-  "sha256": "bd1437e90217d4a127b5c9c61a78fc44ee7c006d89d114ca7b1b62da196136a4",
+  "arquivo": "ConferIR_Setup_3.7.5.1.exe",
+  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.7.5.1/ConferIR_Setup_3.7.5.1.exe",
+  "sha256": "0d186df643147eac2a7fe417752b62e476db73647a88638914e759f28b724b6e",
   "obrigatoria": false
 }
