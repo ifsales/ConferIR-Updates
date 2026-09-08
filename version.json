@@ -1,16 +1,15 @@
 {
   "produto": "ConferIR",
-  "versao": "1.0.2",
-  "data": "2026-08-31",
-  "titulo": "ConferIR 1.0.2",
+  "versao": "3.7.5.0",
+  "data": "2026-09-08",
+  "titulo": "ConferIR 3.7.5.0",
   "descricao": [
-    "Ajustes e refinamentos na tela de atualização.",
-    "Correção da consulta do manifesto de atualização.",
-    "Melhorias no sistema de atualização online manual.",
-    "Consolidação das melhorias em relatórios HTML, dashboard e eSocial Web."
+    "Atualização do ConferIR 3.7.5.0.",
+    "Instalador preserva bancos, arquivos INI e licenças existentes.",
+    "Atualizações iniciadas pelo ConferIR são aplicadas silenciosamente e o aplicativo é reaberto ao final."
   ],
-  "arquivo": "ConferIR_Setup_1.0.2.exe",
-  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v1.0.2/ConferIR_Setup_1.0.2.exe",
-  "sha256": "cf23f072c6a1a908ec43a651987b381b27ee4971b14bf5d8b6b97bcf7995f5af",
+  "arquivo": "ConferIR_Setup_3.7.5.0.exe",
+  "download": "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.7.5.0/ConferIR_Setup_3.7.5.0.exe",
+  "sha256": "bd1437e90217d4a127b5c9c61a78fc44ee7c006d89d114ca7b1b62da196136a4",
   "obrigatoria": false
 }
