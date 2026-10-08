@@ -1,19 +1,19 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.67",
+    "versao":  "3.8.2.68",
     "data":  "2026-10-07",
-    "titulo":  "ConferIR 3.8.2.67",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.67/ConferIR_Setup_3.8.2.67.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.67.exe",
-    "sha256":  "788e4a54f86881db55c368bb7ac49475cc823a290567b361db89037bad824381",
+    "titulo":  "ConferIR 3.8.2.68",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.68/ConferIR_Setup_3.8.2.68.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.68.exe",
+    "sha256":  "db8442fb3d65f313f43b66646a5ddf31bfd96ceff443e285b88fe779f860feb4",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.67.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.67/ConferIR_Portable_3.8.2.67.zip",
-                     "sha256":  "4364bfd9ecbb891facb7f924606e270e400422032a437ca4c9158e4676788fc1"
+                     "arquivo":  "ConferIR_Portable_3.8.2.68.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.68/ConferIR_Portable_3.8.2.68.zip",
+                     "sha256":  "4577f994d5ce7b929a9be00cc18a20bdca8ba251160e1f71c0bcc3c22a76bb30"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "13º rescisório fica no mês da rescisão",
+                      "Tela",
                       "Exportar para o ifEsocial"
                   ]
 }
