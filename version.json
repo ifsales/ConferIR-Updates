@@ -1,19 +1,22 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.68",
-    "data":  "2026-10-07",
-    "titulo":  "ConferIR 3.8.2.68",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.68/ConferIR_Setup_3.8.2.68.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.68.exe",
-    "sha256":  "db8442fb3d65f313f43b66646a5ddf31bfd96ceff443e285b88fe779f860feb4",
+    "versao":  "3.8.2.69",
+    "data":  "2026-10-09",
+    "titulo":  "ConferIR 3.8.2.69",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.69/ConferIR_Setup_3.8.2.69.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.69.exe",
+    "sha256":  "1b283135b4e1c12085f732d0adcee9923f1ece37230272d02b8a92bf3a2af874",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.68.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.68/ConferIR_Portable_3.8.2.68.zip",
-                     "sha256":  "4577f994d5ce7b929a9be00cc18a20bdca8ba251160e1f71c0bcc3c22a76bb30"
+                     "arquivo":  "ConferIR_Portable_3.8.2.69.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.69/ConferIR_Portable_3.8.2.69.zip",
+                     "sha256":  "3438fac956f5aca4ff8107952cc10614db5ee6cc6f27a45abd12ebfa0fbb1283"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Tela",
+                      "Cabeçalhos da Conciliação",
+                      "Filtro \"Rubrica 917-15 (S-1200)\"",
+                      "Ignorados no ifEsocial",
+                      "Localizar evento divergente",
                       "Exportar para o ifEsocial"
                   ]
 }
