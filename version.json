@@ -1,22 +1,23 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.69",
-    "data":  "2026-10-09",
-    "titulo":  "ConferIR 3.8.2.69",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.69/ConferIR_Setup_3.8.2.69.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.69.exe",
-    "sha256":  "1b283135b4e1c12085f732d0adcee9923f1ece37230272d02b8a92bf3a2af874",
+    "versao":  "3.8.2.70",
+    "data":  "2026-10-15",
+    "titulo":  "ConferIR 3.8.2.70",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.70/ConferIR_Setup_3.8.2.70.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.70.exe",
+    "sha256":  "5bf1b3cdd73c84b6eee56fb36a226fb9bfab76af66b89f88bc9ff353da7d77f8",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.69.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.69/ConferIR_Portable_3.8.2.69.zip",
-                     "sha256":  "3438fac956f5aca4ff8107952cc10614db5ee6cc6f27a45abd12ebfa0fbb1283"
+                     "arquivo":  "ConferIR_Portable_3.8.2.70.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.70/ConferIR_Portable_3.8.2.70.zip",
+                     "sha256":  "2308d08c341ce9154b4e0d73cb026818d54edfdc25a4b9f648c00b1755e5b1b9"
                  },
     "obrigatoria":  false,
+    "exportador_sip":  {
+                           "versao":  "1.0.0.0",
+                           "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
+                       },
     "descricao":  [
-                      "Cabeçalhos da Conciliação",
-                      "Filtro \"Rubrica 917-15 (S-1200)\"",
-                      "Ignorados no ifEsocial",
-                      "Localizar evento divergente",
-                      "Exportar para o ifEsocial"
+                      "Exportador SIP incluído no instalador e no portable",
+                      "Exportador SIP 1.0.0.0"
                   ]
 }
