@@ -1,24 +1,23 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.74",
+    "versao":  "3.8.2.76",
     "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.74",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.74/ConferIR_Setup_3.8.2.74.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.74.exe",
-    "sha256":  "ad8bfdb96f5279f2ee3be7c61faa5a991dfa146f3b1c274d2b6510f1abc06f38",
+    "titulo":  "ConferIR 3.8.2.76",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.76/ConferIR_Setup_3.8.2.76.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.76.exe",
+    "sha256":  "44437e5cf95530883f8484fccf1c92de3cd2e53117de506df63c0d162e195105",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.74.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.74/ConferIR_Portable_3.8.2.74.zip",
-                     "sha256":  "d795430f6a57a82483c700d684f8c2ab8c33f14cf85b2bbf14618fec86567aea"
+                     "arquivo":  "ConferIR_Portable_3.8.2.76.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.76/ConferIR_Portable_3.8.2.76.zip",
+                     "sha256":  "f7b9fc95adb932272876ae852314f84c5699fd8f1cd945605b1fe66f50382f4a"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
-                           "versao":  "1.0.2.0",
+                           "versao":  "1.0.4.0",
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Importador: um CPF com mais de um vínculo não perde mais valores",
-                      "Exportador SIP 1.0.2.0",
-                      "Conciliação: código de retenção da folha e do eSocial"
+                      "Conciliação: o eSocial não é mais comparado duas vezes",
+                      "Exportador SIP 1.0.4.0: isenção de 65 anos"
                   ]
 }
