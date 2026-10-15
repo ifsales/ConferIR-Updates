@@ -1,23 +1,24 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.72",
+    "versao":  "3.8.2.74",
     "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.72",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.72/ConferIR_Setup_3.8.2.72.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.72.exe",
-    "sha256":  "af551f4cfe419da2d93b6f3f95e51e8d00261180f21c5f3dffb858be317664d8",
+    "titulo":  "ConferIR 3.8.2.74",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.74/ConferIR_Setup_3.8.2.74.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.74.exe",
+    "sha256":  "ad8bfdb96f5279f2ee3be7c61faa5a991dfa146f3b1c274d2b6510f1abc06f38",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.72.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.72/ConferIR_Portable_3.8.2.72.zip",
-                     "sha256":  "8fdc9504914dcfa7913ae3b1a52ba44ea3f67afcc1e4d8c1487f3b33c348f1e1"
+                     "arquivo":  "ConferIR_Portable_3.8.2.74.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.74/ConferIR_Portable_3.8.2.74.zip",
+                     "sha256":  "d795430f6a57a82483c700d684f8c2ab8c33f14cf85b2bbf14618fec86567aea"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
-                           "versao":  "1.0.1.0",
+                           "versao":  "1.0.2.0",
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Banco volta a abrir depois da 3.8.2.70/71",
-                      "Release nunca mais leva arquivos auxiliares do SQLite"
+                      "Importador: um CPF com mais de um vínculo não perde mais valores",
+                      "Exportador SIP 1.0.2.0",
+                      "Conciliação: código de retenção da folha e do eSocial"
                   ]
 }
