@@ -1,24 +1,23 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.76",
+    "versao":  "3.8.2.77",
     "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.76",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.76/ConferIR_Setup_3.8.2.76.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.76.exe",
-    "sha256":  "44437e5cf95530883f8484fccf1c92de3cd2e53117de506df63c0d162e195105",
+    "titulo":  "ConferIR 3.8.2.77",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.77/ConferIR_Setup_3.8.2.77.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.77.exe",
+    "sha256":  "b72ad0605870c47a1c8d0b2dd50d8135818467f3fd1bb34d281483202b79ca5c",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.76.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.76/ConferIR_Portable_3.8.2.76.zip",
-                     "sha256":  "f7b9fc95adb932272876ae852314f84c5699fd8f1cd945605b1fe66f50382f4a"
+                     "arquivo":  "ConferIR_Portable_3.8.2.77.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.77/ConferIR_Portable_3.8.2.77.zip",
+                     "sha256":  "96e4c55dbbc5d8fc808497694a3c7420f85a5f2901577befc24e0cf9cedb079c"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
-                           "versao":  "1.0.4.0",
+                           "versao":  "1.0.5.0",
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Conciliação: o eSocial não é mais comparado duas vezes",
-                      "Exportador SIP 1.0.4.0: isenção de 65 anos",
-                      "Exportador SIP 1.0.3.0 (3.8.2.75): exporta Pessoas e Rubricas em CSV"
+                      "Exportador SIP: a DIRF processada no SIP não é mais usada",
+                      "Exportador SIP: rendimento líquido das isenções"
                   ]
 }
