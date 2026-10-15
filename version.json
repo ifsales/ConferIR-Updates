@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.71",
+    "versao":  "3.8.2.72",
     "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.71",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.71/ConferIR_Setup_3.8.2.71.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.71.exe",
-    "sha256":  "48f53d3b754a67c9b02b9a4f18d77a25e9324280d37eb01912e798aa706c99bd",
+    "titulo":  "ConferIR 3.8.2.72",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.72/ConferIR_Setup_3.8.2.72.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.72.exe",
+    "sha256":  "af551f4cfe419da2d93b6f3f95e51e8d00261180f21c5f3dffb858be317664d8",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.71.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.71/ConferIR_Portable_3.8.2.71.zip",
-                     "sha256":  "5a07050b18e5cf9d8c92b97367167a9f21b2d59ae11667d1f2e6d5620d07e4a2"
+                     "arquivo":  "ConferIR_Portable_3.8.2.72.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.72/ConferIR_Portable_3.8.2.72.zip",
+                     "sha256":  "8fdc9504914dcfa7913ae3b1a52ba44ea3f67afcc1e4d8c1487f3b33c348f1e1"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,6 +17,7 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Exportador SIP 1.0.1.0: Plano de Saúde em segundos"
+                      "Banco volta a abrir depois da 3.8.2.70/71",
+                      "Release nunca mais leva arquivos auxiliares do SQLite"
                   ]
 }
