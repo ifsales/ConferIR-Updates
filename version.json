@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.77",
+    "versao":  "3.8.2.78",
     "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.77",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.77/ConferIR_Setup_3.8.2.77.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.77.exe",
-    "sha256":  "b72ad0605870c47a1c8d0b2dd50d8135818467f3fd1bb34d281483202b79ca5c",
+    "titulo":  "ConferIR 3.8.2.78",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.78/ConferIR_Setup_3.8.2.78.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.78.exe",
+    "sha256":  "a93cd1f8d4eb248929f5f91d39072174f855a8a28a7d6726130cce66fb517885",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.77.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.77/ConferIR_Portable_3.8.2.77.zip",
-                     "sha256":  "96e4c55dbbc5d8fc808497694a3c7420f85a5f2901577befc24e0cf9cedb079c"
+                     "arquivo":  "ConferIR_Portable_3.8.2.78.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.78/ConferIR_Portable_3.8.2.78.zip",
+                     "sha256":  "de1b8935233b277a085ee65234dae1f1515f744262cd99db99f71dcc89bde19c"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,7 +17,6 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Exportador SIP: a DIRF processada no SIP não é mais usada",
-                      "Exportador SIP: rendimento líquido das isenções"
+                      "Desconsiderar diferença até R$ 0,01 a 0,05"
                   ]
 }
