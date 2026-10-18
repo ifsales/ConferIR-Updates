@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.78",
-    "data":  "2026-10-15",
-    "titulo":  "ConferIR 3.8.2.78",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.78/ConferIR_Setup_3.8.2.78.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.78.exe",
-    "sha256":  "a93cd1f8d4eb248929f5f91d39072174f855a8a28a7d6726130cce66fb517885",
+    "versao":  "3.8.2.79",
+    "data":  "2026-10-18",
+    "titulo":  "ConferIR 3.8.2.79",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.79/ConferIR_Setup_3.8.2.79.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.79.exe",
+    "sha256":  "2f63bf8e5f7146b2d4cbb75e0a263ec6a05f31d8be281393d98a51f787e29c02",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.78.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.78/ConferIR_Portable_3.8.2.78.zip",
-                     "sha256":  "de1b8935233b277a085ee65234dae1f1515f744262cd99db99f71dcc89bde19c"
+                     "arquivo":  "ConferIR_Portable_3.8.2.79.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.79/ConferIR_Portable_3.8.2.79.zip",
+                     "sha256":  "7fa02ae62e3d42459329b479816d24d3de6fc8d5edf1acfd39618d7343082fad"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,6 +17,12 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Desconsiderar diferença até R$ 0,01 a 0,05"
+                      "Menu lateral em telas menores",
+                      "Ajuda contextual",
+                      "Manual novo",
+                      "Assistente IA (terminal)",
+                      "Processamentos: salvar para comparar e limpar ao processar",
+                      "Entidade pela licença e CPF do responsável",
+                      "Grades e componentes IF"
                   ]
 }
