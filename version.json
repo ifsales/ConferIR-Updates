@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.79",
-    "data":  "2026-10-18",
-    "titulo":  "ConferIR 3.8.2.79",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.79/ConferIR_Setup_3.8.2.79.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.79.exe",
-    "sha256":  "2f63bf8e5f7146b2d4cbb75e0a263ec6a05f31d8be281393d98a51f787e29c02",
+    "versao":  "3.8.2.80",
+    "data":  "2026-10-21",
+    "titulo":  "ConferIR 3.8.2.80",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.80/ConferIR_Setup_3.8.2.80.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.80.exe",
+    "sha256":  "9adc504ee9bc6392ebd9717271be73a0254eb91a0fa0f2eb5500c7c3fa250b82",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.79.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.79/ConferIR_Portable_3.8.2.79.zip",
-                     "sha256":  "7fa02ae62e3d42459329b479816d24d3de6fc8d5edf1acfd39618d7343082fad"
+                     "arquivo":  "ConferIR_Portable_3.8.2.80.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.80/ConferIR_Portable_3.8.2.80.zip",
+                     "sha256":  "18b1c6012c79e0dd6e1d1c6b557001df760c19af014eaef8ec08f03ebe07c05d"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,12 +17,10 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Menu lateral em telas menores",
-                      "Ajuda contextual",
-                      "Manual novo",
-                      "Assistente IA (terminal)",
-                      "Processamentos: salvar para comparar e limpar ao processar",
-                      "Entidade pela licença e CPF do responsável",
-                      "Grades e componentes IF"
+                      "Validar licença online (só no clique)",
+                      "Instalação segura da licença baixada",
+                      "Organização do código",
+                      "Infraestrutura do distribuidor (versionada neste repositório)",
+                      "Configuração"
                   ]
 }
