@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.81",
+    "versao":  "3.8.2.82",
     "data":  "2026-10-23",
-    "titulo":  "ConferIR 3.8.2.81",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.81/ConferIR_Setup_3.8.2.81.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.81.exe",
-    "sha256":  "069945ffb81fa15a7f68336fe6382742282829914332cae91135d02e4b1ed3d7",
+    "titulo":  "ConferIR 3.8.2.82",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.82/ConferIR_Setup_3.8.2.82.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.82.exe",
+    "sha256":  "7effe5504d593d7c09050189825dffad6769085c4e91fad96f00372e30bc5f67",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.81.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.81/ConferIR_Portable_3.8.2.81.zip",
-                     "sha256":  "9fe3985f12dace1fecf019419e3fb013bbd23c94530c322633af3b42de5f9d4b"
+                     "arquivo":  "ConferIR_Portable_3.8.2.82.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.82/ConferIR_Portable_3.8.2.82.zip",
+                     "sha256":  "b6edd92bc7f67059a49957e14c90d1fc1ba7cddbc597f353ab297cecbfea927e"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,9 +17,8 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Radar IR (menu Conferência \u003e Radar IR)",
-                      "Termômetro do exercício",
-                      "Fallback sem reinstalar",
-                      "Licença de avaliação"
+                      "Interpretação da divergência e roteiro de correção",
+                      "Plano de Saúde",
+                      "Lupa (Análise de rubricas)"
                   ]
 }
