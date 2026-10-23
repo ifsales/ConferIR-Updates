@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.80",
-    "data":  "2026-10-21",
-    "titulo":  "ConferIR 3.8.2.80",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.80/ConferIR_Setup_3.8.2.80.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.80.exe",
-    "sha256":  "9adc504ee9bc6392ebd9717271be73a0254eb91a0fa0f2eb5500c7c3fa250b82",
+    "versao":  "3.8.2.81",
+    "data":  "2026-10-23",
+    "titulo":  "ConferIR 3.8.2.81",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.81/ConferIR_Setup_3.8.2.81.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.81.exe",
+    "sha256":  "069945ffb81fa15a7f68336fe6382742282829914332cae91135d02e4b1ed3d7",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.80.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.80/ConferIR_Portable_3.8.2.80.zip",
-                     "sha256":  "18b1c6012c79e0dd6e1d1c6b557001df760c19af014eaef8ec08f03ebe07c05d"
+                     "arquivo":  "ConferIR_Portable_3.8.2.81.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.81/ConferIR_Portable_3.8.2.81.zip",
+                     "sha256":  "9fe3985f12dace1fecf019419e3fb013bbd23c94530c322633af3b42de5f9d4b"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,10 +17,9 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Validar licença online (só no clique)",
-                      "Instalação segura da licença baixada",
-                      "Organização do código",
-                      "Infraestrutura do distribuidor (versionada neste repositório)",
-                      "Configuração"
+                      "Radar IR (menu Conferência \u003e Radar IR)",
+                      "Termômetro do exercício",
+                      "Fallback sem reinstalar",
+                      "Licença de avaliação"
                   ]
 }
