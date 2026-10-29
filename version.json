@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.82",
-    "data":  "2026-10-23",
-    "titulo":  "ConferIR 3.8.2.82",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.82/ConferIR_Setup_3.8.2.82.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.82.exe",
-    "sha256":  "7effe5504d593d7c09050189825dffad6769085c4e91fad96f00372e30bc5f67",
+    "versao":  "3.8.2.83",
+    "data":  "2026-10-29",
+    "titulo":  "ConferIR 3.8.2.83",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.83/ConferIR_Setup_3.8.2.83.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.83.exe",
+    "sha256":  "1a9883a3002104908c7cf46d53e6d3834ddaae8ed378115b76a9a2f38e7d410c",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.82.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.82/ConferIR_Portable_3.8.2.82.zip",
-                     "sha256":  "b6edd92bc7f67059a49957e14c90d1fc1ba7cddbc597f353ab297cecbfea927e"
+                     "arquivo":  "ConferIR_Portable_3.8.2.83.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.83/ConferIR_Portable_3.8.2.83.zip",
+                     "sha256":  "7a7abc34c17cc9c44e13ea842e3329277721bd4e4d5c108a9180092cdad0a536"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -17,8 +17,11 @@
                            "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
                        },
     "descricao":  [
-                      "Interpretação da divergência e roteiro de correção",
-                      "Plano de Saúde",
-                      "Lupa (Análise de rubricas)"
+                      "Instalação \"Versão de avaliação\"",
+                      "Ativação na primeira abertura (antes do login)",
+                      "Liberar os demais meses",
+                      "Mês 13",
+                      "Primeiro acesso: admin / admin",
+                      "Segurança da licença de avaliação"
                   ]
 }
