@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
     "versao":  "3.8.2.83",
-    "data":  "2026-10-29",
+    "data":  "2026-10-30",
     "titulo":  "ConferIR 3.8.2.83",
     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.83/ConferIR_Setup_3.8.2.83.exe",
     "arquivo":  "ConferIR_Setup_3.8.2.83.exe",
-    "sha256":  "1a9883a3002104908c7cf46d53e6d3834ddaae8ed378115b76a9a2f38e7d410c",
+    "sha256":  "99ef992c70f6fe22aa4049552b20f34560b151b3d2ed15f3bddda11858ef2e37",
     "portable":  {
                      "arquivo":  "ConferIR_Portable_3.8.2.83.zip",
                      "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.83/ConferIR_Portable_3.8.2.83.zip",
-                     "sha256":  "7a7abc34c17cc9c44e13ea842e3329277721bd4e4d5c108a9180092cdad0a536"
+                     "sha256":  "86089a87d6dc7855b93549b836f3828f966c0cb6006ddda945613d967ab57efd"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
@@ -22,6 +22,8 @@
                       "Liberar os demais meses",
                       "Mês 13",
                       "Primeiro acesso: admin / admin",
-                      "Segurança da licença de avaliação"
+                      "Segurança da licença de avaliação",
+                      "Aviso de atualização ao iniciar",
+                      "Avaliação na tela inicial"
                   ]
 }
