@@ -1,19 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.108",
-    "data":  "2026-10-31",
-    "titulo":  "ConferIR 3.8.2.108",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.108/ConferIR_Setup_3.8.2.108.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.108.exe",
-    "sha256":  "6e661c7d3eb42d062ba90ab7e7a9f0870114f15444194e745a1aa41837ca260e",
+    "versao":  "3.8.2.109",
+    "data":  "2026-11-01",
+    "titulo":  "ConferIR 3.8.2.109",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.109/ConferIR_Setup_3.8.2.109.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.109.exe",
+    "sha256":  "7d68820daf17324cd5d9416f4634b91f6bccf2a98ac90d978e9b00db100e8a9d",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.108.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.108/ConferIR_Portable_3.8.2.108.zip",
-                     "sha256":  "3a64061ef07017518a6103526e03f6a30cc24948a5b2800ccca6e22f32019c8d"
+                     "arquivo":  "ConferIR_Portable_3.8.2.109.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.109/ConferIR_Portable_3.8.2.109.zip",
+                     "sha256":  "f9db0a5daba4bcc20d5bd4377d92ca41750872d1cb9e47107276525dd6eecad6"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Pasta Entidades_Fiorilli com os XML de exportação",
-                      "Manual revisado, com as imagens sem dados da entidade"
+                      "Chamados de suporte dentro do sistema"
                   ]
 }
