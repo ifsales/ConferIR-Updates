@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.113",
+    "versao":  "3.8.2.114",
     "data":  "2026-11-01",
-    "titulo":  "ConferIR 3.8.2.113",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.113/ConferIR_Setup_3.8.2.113.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.113.exe",
-    "sha256":  "6e8c0416828aeff72d63eb19a746093ea44f299197237b1cfc1335fe6971bf67",
+    "titulo":  "ConferIR 3.8.2.114",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.114/ConferIR_Setup_3.8.2.114.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.114.exe",
+    "sha256":  "3198f26e2b652c01c60c081cd6659e55c2d0d21c1dd9a40159252beae770ce53",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.113.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.113/ConferIR_Portable_3.8.2.113.zip",
-                     "sha256":  "223daf82e46818b0aaa792c496ae6d9b4b0955d7f82846721d1430552cc513b3"
+                     "arquivo":  "ConferIR_Portable_3.8.2.114.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.114/ConferIR_Portable_3.8.2.114.zip",
+                     "sha256":  "65304c7137b25b9aa6e7e95d2b3a0cb73aa591718dcf62c85103e3b4a9d30397"
                  },
-    "obrigatoria":  true,
+    "obrigatoria":  false,
     "descricao":  [
-                      "Importação do TXT por evento em base nova"
+                      "Resumo das divergências, por pessoa e por tipo"
                   ]
 }
