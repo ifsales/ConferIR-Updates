@@ -1,28 +1,19 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.107",
+    "versao":  "3.8.2.108",
     "data":  "2026-10-31",
-    "titulo":  "ConferIR 3.8.2.107",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.107/ConferIR_Setup_3.8.2.107.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.107.exe",
-    "sha256":  "f342f3e9d5773ebcb60b4a93af1ae0a5b170cd84fda7a1e575744c5d9f91764c",
+    "titulo":  "ConferIR 3.8.2.108",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.108/ConferIR_Setup_3.8.2.108.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.108.exe",
+    "sha256":  "6e661c7d3eb42d062ba90ab7e7a9f0870114f15444194e745a1aa41837ca260e",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.107.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.107/ConferIR_Portable_3.8.2.107.zip",
-                     "sha256":  "257b4ba8b6e14b7089cf8c0d194bf0a4372b1b0a576543d563e51ae4edb5645e"
+                     "arquivo":  "ConferIR_Portable_3.8.2.108.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.108/ConferIR_Portable_3.8.2.108.zip",
+                     "sha256":  "3a64061ef07017518a6103526e03f6a30cc24948a5b2800ccca6e22f32019c8d"
                  },
     "obrigatoria":  false,
-    "exportador_sip":  {
-                           "versao":  "1.0.8.0",
-                           "arquivo":  "ExportadorSIP\\ExportadorSIP.exe"
-                       },
     "descricao":  [
-                      "Balão nas divergências, com os eventos que formam a diferença e o que verificar",
-                      "Filtro por rubrica na Conciliação e no Enviar eSocial",
-                      "TXT por evento completo: dispensa os demais arquivos do SIP, salvo regime Caixa",
-                      "Desconto simplificado igual à DIRF do SIP",
-                      "Enviar eSocial e Envio automático, para quem tem a opção ligada",
-                      "Comparativo Folha x eSocial na Análise de rubricas",
-                      "Manual atualizado e ajustes no tema escuro"
+                      "Pasta Entidades_Fiorilli com os XML de exportação",
+                      "Manual revisado, com as imagens sem dados da entidade"
                   ]
 }
