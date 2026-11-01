@@ -5,11 +5,11 @@
     "titulo":  "ConferIR 3.8.2.107",
     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.107/ConferIR_Setup_3.8.2.107.exe",
     "arquivo":  "ConferIR_Setup_3.8.2.107.exe",
-    "sha256":  "f8d8f76f9cb13164b027875a5b14c1b964d2b0f4dfb064bba23b6d01533ddacb",
+    "sha256":  "f342f3e9d5773ebcb60b4a93af1ae0a5b170cd84fda7a1e575744c5d9f91764c",
     "portable":  {
                      "arquivo":  "ConferIR_Portable_3.8.2.107.zip",
                      "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.107/ConferIR_Portable_3.8.2.107.zip",
-                     "sha256":  "6ae08af63dc2986799fabe1231139df143f2c511f022bb51676d1611c89875f7"
+                     "sha256":  "257b4ba8b6e14b7089cf8c0d194bf0a4372b1b0a576543d563e51ae4edb5645e"
                  },
     "obrigatoria":  false,
     "exportador_sip":  {
