@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.109",
+    "versao":  "3.8.2.110",
     "data":  "2026-11-01",
-    "titulo":  "ConferIR 3.8.2.109",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.109/ConferIR_Setup_3.8.2.109.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.109.exe",
-    "sha256":  "7d68820daf17324cd5d9416f4634b91f6bccf2a98ac90d978e9b00db100e8a9d",
+    "titulo":  "ConferIR 3.8.2.110",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.110/ConferIR_Setup_3.8.2.110.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.110.exe",
+    "sha256":  "08d5efb64026a0a0f2d5c8ff030c92b260542ccb34771a4530cde3bb189c1aac",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.109.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.109/ConferIR_Portable_3.8.2.109.zip",
-                     "sha256":  "f9db0a5daba4bcc20d5bd4377d92ca41750872d1cb9e47107276525dd6eecad6"
+                     "arquivo":  "ConferIR_Portable_3.8.2.110.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.110/ConferIR_Portable_3.8.2.110.zip",
+                     "sha256":  "8afeae43c3df0f476d3245316f74773267711d96cde08cb30b6092676ccfccd3"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Chamados de suporte dentro do sistema"
+                      "Abrir chamado direto no cabeçalho"
                   ]
 }
