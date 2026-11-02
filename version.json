@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.114",
-    "data":  "2026-11-01",
-    "titulo":  "ConferIR 3.8.2.114",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.114/ConferIR_Setup_3.8.2.114.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.114.exe",
-    "sha256":  "3198f26e2b652c01c60c081cd6659e55c2d0d21c1dd9a40159252beae770ce53",
+    "versao":  "3.8.2.117",
+    "data":  "2026-11-02",
+    "titulo":  "ConferIR 3.8.2.117",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.117/ConferIR_Setup_3.8.2.117.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.117.exe",
+    "sha256":  "76a9b7c942ec5033b2c8bbf1776422732f44e311d484254e361b927a33a8b914",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.114.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.114/ConferIR_Portable_3.8.2.114.zip",
-                     "sha256":  "65304c7137b25b9aa6e7e95d2b3a0cb73aa591718dcf62c85103e3b4a9d30397"
+                     "arquivo":  "ConferIR_Portable_3.8.2.117.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.117/ConferIR_Portable_3.8.2.117.zip",
+                     "sha256":  "b36dd2e55ab6585f66498999a1d2563f799008b2064c12175f3b0672a886ac0a"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Resumo das divergências, por pessoa e por tipo"
+                      "Extrator da DIRF mensal e anual na ordem do e-CAC; menu Básico por padrão"
                   ]
 }
