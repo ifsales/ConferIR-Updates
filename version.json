@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.118",
-    "data":  "2026-11-03",
-    "titulo":  "ConferIR 3.8.2.118",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.118/ConferIR_Setup_3.8.2.118.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.118.exe",
-    "sha256":  "42fe94354b9bcd290abb4d2c02f57abc8aa01a53a8affd19d965258a7bcb052b",
+    "versao":  "3.8.2.120",
+    "data":  "2026-11-11",
+    "titulo":  "ConferIR 3.8.2.120",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.120/ConferIR_Setup_3.8.2.120.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.120.exe",
+    "sha256":  "8e06ff8543ab139051490deb4c35c8e490c5ca4e75f51440e0ab962d2e1c2a27",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.118.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.118/ConferIR_Portable_3.8.2.118.zip",
-                     "sha256":  "0d01dbb565401890bd2c3b0cd9812b6184475e13b67f26432aebe3515d788894"
+                     "arquivo":  "ConferIR_Portable_3.8.2.120.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.120/ConferIR_Portable_3.8.2.120.zip",
+                     "sha256":  "9d11a70d6498d873a4c2b9645f64c84089505a8fb8c5f2c208ddc432293087ef"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Importar o arquivo de licença, tela de licença vencida e menu lateral pela empresa"
+                      "Layout por evento: 13º pelo cadastro, abono 909/910 e XML mensal por mês (pedido do usuário)"
                   ]
 }
