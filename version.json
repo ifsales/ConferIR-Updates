@@ -1,18 +1,20 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.122",
-    "data":  "2026-11-12",
-    "titulo":  "ConferIR 3.8.2.122",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.122/ConferIR_Setup_3.8.2.122.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.122.exe",
-    "sha256":  "20a37892691fe8dbd2b397a758e440b2d55c60204813580cb8870c8176ec8001",
+    "versao":  "3.8.2.123",
+    "data":  "2026-11-13",
+    "titulo":  "ConferIR 3.8.2.123",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.123/ConferIR_Setup_3.8.2.123.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.123.exe",
+    "sha256":  "cd25263217698a0c196a7eaed50abf0ec4ca7dcf4026b351792ffad338dac7b6",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.122.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.122/ConferIR_Portable_3.8.2.122.zip",
-                     "sha256":  "95d672b1b6e727af9312aa5ead3713abe26afdfdd15c218f8f3619b366123010"
+                     "arquivo":  "ConferIR_Portable_3.8.2.123.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.123/ConferIR_Portable_3.8.2.123.zip",
+                     "sha256":  "9b0a1d37b5cfa181912a779d27e0fd4e29faef9e7ab19ca084fa84d151b822a8"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Importar dados: processar com arquivos ainda não importados importa antes (pedido do usuário)"
+                      "Conciliação: mês só com a folha importada não é divergência (pedido do usuário)",
+                      "Menu lateral expandido por padrão (pedido do usuário)",
+                      "Envio eSocial: o tipo de divergência escolhido limita o ajuste do XML (pedido do usuário)"
                   ]
 }
