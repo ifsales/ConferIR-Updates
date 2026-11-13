@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.124",
+    "versao":  "3.8.2.125",
     "data":  "2026-11-13",
-    "titulo":  "ConferIR 3.8.2.124",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.124/ConferIR_Setup_3.8.2.124.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.124.exe",
-    "sha256":  "30c9ec6817d80d07892ed628bb019e76b175afff97bc0807f46930db292f7b38",
+    "titulo":  "ConferIR 3.8.2.125",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.125/ConferIR_Setup_3.8.2.125.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.125.exe",
+    "sha256":  "7a202f6f430ada4988ac04333cb94dae62858b3611df360f96ea08e69c89fb62",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.124.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.124/ConferIR_Portable_3.8.2.124.zip",
-                     "sha256":  "c3a689970f20b61e7ae36b5893367e83c235abbea12d88d2cc568a64830c7d82"
+                     "arquivo":  "ConferIR_Portable_3.8.2.125.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.125/ConferIR_Portable_3.8.2.125.zip",
+                     "sha256":  "c9e18d8e22e78087d5d2c1decfb824bdd37296f54ddd1d053596606759c6d0d8"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Exportar para o ifEsocial por tipo de divergência (pedido do usuário)"
+                      "Dependentes no mês em que só há folha de férias (pedido do usuário)"
                   ]
 }
