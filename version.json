@@ -1,18 +1,20 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.126",
-    "data":  "2026-11-14",
-    "titulo":  "ConferIR 3.8.2.126",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.126/ConferIR_Setup_3.8.2.126.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.126.exe",
-    "sha256":  "87db0f33aa3dd852651850055354c91a72ac9fc14dcb5c6cbd0936315efdadec",
+    "versao":  "3.8.2.127",
+    "data":  "2026-11-16",
+    "titulo":  "ConferIR 3.8.2.127",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.127/ConferIR_Setup_3.8.2.127.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.127.exe",
+    "sha256":  "d3fa22e22e607aeaae4c1bd3abb8e4844d512e7bb586f75ea228ac4453849a5d",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.126.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.126/ConferIR_Portable_3.8.2.126.zip",
-                     "sha256":  "314206ab23c916c26d786e5f832d0f83d073e50d086e2fe4410bdbbe7354fbd5"
+                     "arquivo":  "ConferIR_Portable_3.8.2.127.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.127/ConferIR_Portable_3.8.2.127.zip",
+                     "sha256":  "961c0f415f9bc26a1e7d25d670afff720d2190d6dfc54f3bf23a16145a570ca1"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Portal eSocial sempre aberto (pedido do usuário)"
+                      "Atualizacao do ConferIR",
+                      "Versao de producao",
+                      "Instalador e portable com dependencias de runtime, sem banco, INI local ou licenca de cliente"
                   ]
 }
