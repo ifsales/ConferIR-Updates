@@ -1,15 +1,15 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.127",
-    "data":  "2026-11-16",
-    "titulo":  "ConferIR 3.8.2.127",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.127/ConferIR_Setup_3.8.2.127.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.127.exe",
-    "sha256":  "d3fa22e22e607aeaae4c1bd3abb8e4844d512e7bb586f75ea228ac4453849a5d",
+    "versao":  "3.8.2.128",
+    "data":  "2026-11-17",
+    "titulo":  "ConferIR 3.8.2.128",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.128/ConferIR_Setup_3.8.2.128.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.128.exe",
+    "sha256":  "c840fb7b89adb2eef6da510843db1bf1817e1d5a2feac48bc195fe742a38179b",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.127.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.127/ConferIR_Portable_3.8.2.127.zip",
-                     "sha256":  "961c0f415f9bc26a1e7d25d670afff720d2190d6dfc54f3bf23a16145a570ca1"
+                     "arquivo":  "ConferIR_Portable_3.8.2.128.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.128/ConferIR_Portable_3.8.2.128.zip",
+                     "sha256":  "fc6182f8b694496d42d2a8ef424b6bc4ba315c4a227dbc01a40a4a3f029d215f"
                  },
     "obrigatoria":  false,
     "descricao":  [
