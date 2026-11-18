@@ -1,20 +1,20 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.129",
+    "versao":  "3.8.2.130",
     "data":  "2026-11-18",
-    "titulo":  "ConferIR 3.8.2.129",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.129/ConferIR_Setup_3.8.2.129.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.129.exe",
-    "sha256":  "5ed1f40619cf223a4cd06ca8af28600e030cced05793cc15e15968f3366a20ca",
+    "titulo":  "ConferIR 3.8.2.130",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.130/ConferIR_Setup_3.8.2.130.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.130.exe",
+    "sha256":  "3a6686adc0cde0eb92f768de4989eb9b2a35017c38404f9831938e35468baa1c",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.129.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.129/ConferIR_Portable_3.8.2.129.zip",
-                     "sha256":  "f9364dd97176a6c07259b776f24cd53ec587dcc5fbb9847f1b4d275f2904d067"
+                     "arquivo":  "ConferIR_Portable_3.8.2.130.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.130/ConferIR_Portable_3.8.2.130.zip",
+                     "sha256":  "e4ed68187a5c5bc9047030b68c4aeca17e66f371e17258bdb2902bcb96ca1f29"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Abono pecuniário no layout para entidades Fiorilli",
-                      "Botão Gerar arquivos de exportação na Central de importação",
-                      "Baixar e importar do portal eSocial já importa"
+                      "Atualizacao do ConferIR",
+                      "Versao de producao",
+                      "Instalador e portable com dependencias de runtime, sem banco, INI local ou licenca de cliente"
                   ]
 }
