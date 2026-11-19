@@ -1,20 +1,21 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.131",
+    "versao":  "3.8.2.132",
     "data":  "2026-11-18",
-    "titulo":  "ConferIR 3.8.2.131",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.131/ConferIR_Setup_3.8.2.131.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.131.exe",
-    "sha256":  "16c3c8d76bf7de11f66945112531f9235821c7721fe02532be3bbb80863ad9a9",
+    "titulo":  "ConferIR 3.8.2.132",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.132/ConferIR_Setup_3.8.2.132.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.132.exe",
+    "sha256":  "39ab4a4031ec12c7d74eed09db0ada6f27668f7e7e541496415f02234d48321f",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.131.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.131/ConferIR_Portable_3.8.2.131.zip",
-                     "sha256":  "ae2f1ee196fc1ad74cde844afc644b43042e6d6b5560e99a874e75cd0b7704f6"
+                     "arquivo":  "ConferIR_Portable_3.8.2.132.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.132/ConferIR_Portable_3.8.2.132.zip",
+                     "sha256":  "9f982f57340c60516db21c65f4baa9b6f8fdd5df16c97ce24ae379294d7e710b"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Atualizacao do ConferIR",
-                      "Versao de producao",
-                      "Instalador e portable com dependencias de runtime, sem banco, INI local ou licenca de cliente"
+                      "Autônomos na exportação da folha (Exportador 1.0.13.0)",
+                      "Conciliação: CPF só no eSocial",
+                      "Balão no código de retenção diferente",
+                      "Tela de login"
                   ]
 }
