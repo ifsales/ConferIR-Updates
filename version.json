@@ -1,18 +1,18 @@
 {
     "produto":  "ConferIR",
-    "versao":  "3.8.2.135",
+    "versao":  "3.8.2.136",
     "data":  "2026-11-20",
-    "titulo":  "ConferIR 3.8.2.135",
-    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.135/ConferIR_Setup_3.8.2.135.exe",
-    "arquivo":  "ConferIR_Setup_3.8.2.135.exe",
-    "sha256":  "3e9c82ae41230db9e1dd31a54e031154a24939cd8795b4f96c96aa7543d73e6c",
+    "titulo":  "ConferIR 3.8.2.136",
+    "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.136/ConferIR_Setup_3.8.2.136.exe",
+    "arquivo":  "ConferIR_Setup_3.8.2.136.exe",
+    "sha256":  "16ba1d0c144a2a4a9cfb55f447775927cdf7f060ff5f04f64f27920e9c2069d3",
     "portable":  {
-                     "arquivo":  "ConferIR_Portable_3.8.2.135.zip",
-                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.135/ConferIR_Portable_3.8.2.135.zip",
-                     "sha256":  "e4d8a2e345d5dd77b5b23d7a683129607e1d792de64df51b6f1be730ea5baa8c"
+                     "arquivo":  "ConferIR_Portable_3.8.2.136.zip",
+                     "download":  "https://github.com/ifsales/ConferIR-Updates/releases/download/v3.8.2.136/ConferIR_Portable_3.8.2.136.zip",
+                     "sha256":  "b9dd3216a9eb58d6a3a5cccc9ff498b5a5617da60ff66b68ebfc342723a4ef4b"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Certificado com procuração no Portal eSocial"
+                      "Folha zerada não é \"Sem folha\" (pedido do usuário)"
                   ]
 }
